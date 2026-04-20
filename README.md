@@ -9,3 +9,4 @@ Java Maven project demonstrating step-by-step use cases.
 mvn clean install -DskipTests
 
 mvn exec:java -Dexec.mainClass="helloapp.HelloApp"
+
